@@ -10,7 +10,7 @@
 
 /*
  Interface to Shinyei Model PPD42NS Particle Sensor
- Program by Kevin W Jones with inspiration from multiple web resources regarding using wiringPi and PWM-based sensor reading
+ (C) 2015 by Kevin W Jones. Inspired by multiple web resources regarding using wiringPi to effect PWM-based sensor reading
  
  Written June 2015
  
